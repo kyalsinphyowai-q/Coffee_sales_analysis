@@ -53,4 +53,4 @@ Key findings from the analysis are presented through the dashboard, including sa
 Kyal Sin Phyo Wai
 Freelance Data Analyst
 Skills: Excel • SQL • Power BI
-LinkedIn - 
+LinkedIn - https://www.linkedin.com/in/kyal-sin-phyo-wai
