@@ -29,7 +29,7 @@ The workflow covers data review and preparation, analysis with PivotTables, and 
 
 > **Dashboard screenshot:** Upload the dashboard image to this repository (for example, `images/coffee-sales-dashboard.png`), then replace the placeholder below with the correct path.
 
-![Coffee Sales Excel Dashboard](images/coffee-sales-dashboard.png)
+![Coffee Sales Excel Dashboard](coffee_sales_dashboard.png)
 
 The dashboard summarizes sales performance and supports exploration of sales by time period, country, coffee type, roast type, and customer.
 
