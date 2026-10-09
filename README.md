@@ -81,8 +81,7 @@ Dashboard file: "Coffee_Sales_Dashboard.xlsx"
 Note: These recommendations are based on sales performance. Additional data, such as product costs, profit margins, customer counts, and purchase frequency, would be needed to validate profitability and determine the effectiveness of specific strategies.
 
 📁 Project Files
-
-"Download Coffee Sales Dashboard" (./Coffee_Sales_Dashboard.xlsx) — Excel workbook containing the coffee sales analysis and dashboard.
+"Download Excel Dashboard" (https://github.com/kyalsinphyowai-q/Coffee_sales_analysis/blob/main/Coffee_Sales_Dashboard.xlsx)
 
 👤 About Me
 
