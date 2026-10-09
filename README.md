@@ -82,7 +82,7 @@ Note: These recommendations are based on sales performance. Additional data, suc
 
 📁 Project Files
 
-- "Coffee_Sales_Dashboard.xlsx" — Final Excel dashboard
+"Download Coffee Sales Dashboard" (./Coffee_Sales_Dashboard.xlsx) — Excel workbook containing the coffee sales analysis and dashboard.
 
 👤 About Me
 
