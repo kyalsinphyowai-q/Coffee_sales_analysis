@@ -1,4 +1,4 @@
-# Coffee Sales Analysis — Excel Dashboard
+# Coffee Sales Performance Analysis — Excel Dashboard
 
 ## Project Overview
 
