@@ -84,7 +84,7 @@ These are recommendations for further investigation, not proven causes or guaran
 
 ## 📁 Project Files
 
-- [Download the Excel Dashboard](Coffee_Sales_Dashboard.xlsx)
+- [Download the Excel Dashboard](Coffee_Sales_Dashboard.jpg)
 - [View the repository on GitHub](https://github.com/kyalsinphyowai-q/Coffee_sales_analysis)
 
 ## ⚙️ Methodology & Limitations
