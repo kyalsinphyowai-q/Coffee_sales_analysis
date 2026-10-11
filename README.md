@@ -27,7 +27,7 @@ The workflow covers data review and preparation, analysis with PivotTables, and 
 
 ## 🖼️ Dashboard Preview
 
-![Coffee Sales Excel Dashboard](coffee_sales_dashboard.png)
+![Coffee Sales Excel Dashboard](Coffee_Sales_Dashboard.jpg)
 
 The dashboard summarizes sales performance and supports exploration of sales by time period, country, coffee type, roast type, and customer.
 
