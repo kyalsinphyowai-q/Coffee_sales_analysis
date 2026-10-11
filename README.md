@@ -1,12 +1,12 @@
-# ☕ Coffee Sales Analysis — Excel Dashboard
+# Coffee Sales Analysis — Excel Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes coffee sales data using Microsoft Excel to understand sales trends, geographic performance, and product preferences.
 
 The workflow covers data review and preparation, analysis with PivotTables, and the development of an interactive Excel dashboard.
 
-## 🎯 Business Questions
+## Business Questions
 
 - How did sales change over time?
 - Which countries generated the most sales?
@@ -14,7 +14,7 @@ The workflow covers data review and preparation, analysis with PivotTables, and 
 - Which customers ranked highest by total sales?
 - What areas may warrant further business investigation?
 
-## 📊 Executive Summary
+## Executive Summary
 
 - **Total sales:** approximately **$45,134.26**.
 - **Total quantity:** **3,551** units.
@@ -25,13 +25,13 @@ The workflow covers data review and preparation, analysis with PivotTables, and 
 
 *Note: The 2022 data ends on August 19, 2022, so 2022 represents a partial year and should not be compared directly with full-year totals.*
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Coffee Sales Excel Dashboard](Coffee_Sales_Dashboard.jpg)
 
 The dashboard summarizes sales performance and supports exploration of sales by time period, country, coffee type, roast type, and customer.
 
-## 🎯 Key Insights
+## Key Insights
 
 ### 1. Sales Over Time
 
@@ -63,7 +63,7 @@ The dashboard summarizes sales performance and supports exploration of sales by 
 - **Allis Wilmore** ranked first by recorded sales, at approximately **$317.07**.
 - The analysis also identifies the five customers with the highest total sales. This ranking can be used as a starting point for deeper customer-retention analysis; it does not by itself show purchase frequency or loyalty.
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. **Monitor the leading market.** Continue tracking U.S. sales and investigate which customer segments and products contribute most to performance.
 2. **Research other markets.** Explore customer preferences and sales patterns in Ireland and the United Kingdom before deciding whether targeted campaigns are appropriate.
@@ -73,7 +73,7 @@ The dashboard summarizes sales performance and supports exploration of sales by 
 
 These are recommendations for further investigation, not proven causes or guaranteed outcomes. The workbook's sales figures alone do not establish profitability or the effectiveness of a particular strategy.
 
-## 🧰 Tools & Skills
+## Tools & Skills
 
 - Microsoft Excel
 - Data review and preparation
@@ -82,12 +82,12 @@ These are recommendations for further investigation, not proven causes or guaran
 - KPI analysis
 - Dashboard design and data visualization
 
-## 📁 Project Files
+## Project Files
 
 - [Download the Excel Workbook](Coffee_Sales_Dashboard.xlsx)
 - [View the repository on GitHub](https://github.com/kyalsinphyowai-q/Coffee_sales_analysis)
 
-## ⚙️ Methodology & Limitations
+## Methodology & Limitations
 
 - The analysis is based on the sales data included in the workbook.
 - The 2022 data is partial and ends on August 19, 2022.
@@ -95,7 +95,7 @@ These are recommendations for further investigation, not proven causes or guaran
 - Customer rankings are based on recorded sales and do not independently measure loyalty, satisfaction, or retention.
 - Findings describe the dataset and should not be treated as evidence of the causes behind observed differences.
 
-## 👤 About Me
+## About Me
 
 **Kyal Sin Phyo Wai**  
 Aspiring Freelance Data Analyst
